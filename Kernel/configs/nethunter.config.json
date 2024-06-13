@@ -1,7 +1,7 @@
 [
     {
         "kernelSource": {
-            "name": "Realme5Pro",
+            "name": "Nethunter5Pro",
             "repo": "https://github.com/Not4GoodBoyThou/kernel_realme_sdm710",
             "branch": "nethunter",
             "device": "RMX1971",
