@@ -1,7 +1,7 @@
 [
     {
         "kernelSource": {
-            "name": "Realme5Pro",
+            "name": "KharaMe5Pro",
             "repo": "https://github.com/Not4GoodBoyThou/kernel_realme_sdm710",
             "branch": "13",
             "device": "RMX1971",
